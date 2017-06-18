@@ -1,0 +1,8 @@
+{
+  "name": "Barney Rubble",
+  "email": "b@rubble.com",
+  "url": "http://barnyrubble.tumblr.com/",
+  "dependencies": {
+    "apiai": "^4.0.2"
+  }
+}
